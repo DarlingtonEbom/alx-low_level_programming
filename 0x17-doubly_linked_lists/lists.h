@@ -1,3 +1,5 @@
+#ifndef LISTS_H
+#define LISTS_H
 #ifndef DLISTINT_H
 #define DLISTINT_H
 

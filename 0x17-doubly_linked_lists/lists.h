@@ -1,5 +1,9 @@
-#ifndef LISTS_H
-#define LISTS_H
+#ifndef _LISTS_
+#define _LISTS_
+
+#include <stdio.h>
+#include <stlib.h>
+
 #ifndef DLISTINT_H
 #define DLISTINT_H
 
